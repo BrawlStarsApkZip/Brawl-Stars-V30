@@ -15,7 +15,8 @@ If u need, u can place your DB in database
 ### Pydroid
 In a terminal, type __`pip install -r requirements.txt`__ then run the server using __`python main.py`__
 ### Hosting
-Make main.py as starting file and change port in core.py, then make requirements.txt as modules install file, write token of bot in botuser.py, then run the server
+Make main.py as starting file and change port in core.py, write token of bot in botuser.py, then run the server
+### I made modules in archive, so u can not install modules on hosting
 
 ### Download the ZIP
 https://www.mediafire.com/file/6d7pjnsctmsjooi/Vanshinn+Brawl.zip/file
