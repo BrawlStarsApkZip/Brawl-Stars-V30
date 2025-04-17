@@ -2,6 +2,8 @@
 
 My zip of Vanshinn Brawl V30
 
+![a screenshot lol](https://github.com/BrawlStarsApkZip/Brawl-Stars-V30/blob/main/Screenshot_20250416-180652.png)
+
 Brawl Stars V30 server emulator written in Python.
 
 ### Requirements:
